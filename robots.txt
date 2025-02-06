@@ -1,0 +1,8 @@
+User-agent: Googlebot  
+Disallow:   
+User-agent: googlebot-image  
+User-agent: googlebot-mobile  
+Disallow:   
+User-agent: *  
+Disallow: 
+Sitemap: https://liputandome.github.io/manhwanews/sitemap.xml
